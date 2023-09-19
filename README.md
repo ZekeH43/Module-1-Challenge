@@ -1,5 +1,5 @@
 # Case Study
-# The Ripple Effect
+# Ripple
 
 ## Overview and Origin
 
