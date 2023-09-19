@@ -63,3 +63,11 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+## Resources
+https://xrpl.org/xrp-overview.html
+https://ripple.com/solutions/cross-border-payments/
+https://cointelegraph.com/learn/what-is-xrp-and-what-does-it-have-to-do-with-ripple
+https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/funding-and-investors
+https://stackshare.io/ripple/ripple
