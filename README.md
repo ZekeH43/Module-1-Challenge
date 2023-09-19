@@ -1,4 +1,4 @@
-# Module-1-Challenge
+# Case Study
 # The Ripple Effect
 
 ## Overview and Origin
