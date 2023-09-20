@@ -50,7 +50,7 @@
 ## Results
 
 * What has been the business impact of this company so far?
-* On the business side ripple has had the biggest impact in cross border payments because settlments happens in as quick as three to five seconds where most other major companies take one to three days. They are also getting into financial instituitions and helping them switch from using a middle man to using blockchain to send, verify and recieve funds.  
+* On the business side ripple has had the biggest impact in cross border payments because settlments happens in as quick as three to five seconds where most other major companies take one to three days. They have also begun working with some financial instituitions and helping them switch from using a middle man to using blockchain to send, verify and recieve funds.  
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
