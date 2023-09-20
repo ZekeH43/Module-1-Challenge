@@ -32,22 +32,25 @@
 * The biggest solution that ripple offers is they are able to settle payments in a little as three to five seconds and for less then a penny. Where as there competitor Bitcoin takes up to 500 seconds to settle payments and cost fifty cents. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
-* As found on stackshare, ripple is utilizying many tools such as JavaScript,jQuery,React,HTML5,Java,NGINX,PostgreSQL,TypeScript,Google Drive,ES6,Redis,Amazon S3,Amazon EC2
+* As found on stackshare, ripple is utilizying many tools such as JavaScript,jQuery,HTML5,Java,NGINX,PostgreSQL,TypeScript,Google Drive,Amazon S3.
 
 
 ## Landscape
 
 * What domain of the financial industry is the company in?
-* 
+* Ripple would go under payments and remittances because they are selling a product that you can send and recieve payments in real time.I could also see them going under block chain and cryptocurrency because the platyform they use for there payment process utilizes both a block chain and cryptocurrency.
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
+* From the begining of Ripple they have always strived to create a faster payment process through either cross border payments or setlments and they have been very successful doing that and pushing other platforms to step up and try to compete. Another major trend they have started is ripple does not use mining for xrp settlements making them more eco friendly. Just mining one Bitcoin uses more energy then the average house hold uses one year.
 
 * What are the other major companies in this domain?
+* This domain has been rapidly growing due to the growth of technology and money being invested into it. In comparison with Ripple the major companies in this domain are Stellar also known as XLM, as well as Bitcoin. 
 
 
 ## Results
 
 * What has been the business impact of this company so far?
+* On the business side ripple has had the biggest impact in cross border payments because settlments happens in as quick as three to five seconds where most other major companies take one to three days. They are also getting into financial instituitions and helping them switch from using a middle man to using blockchain to send, verify and recieve funds.  
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
