@@ -53,6 +53,7 @@
 * On the business side ripple has had the biggest impact in cross border payments because settlments happens in as quick as three to five seconds where most other major companies take one to three days. They have also begun working with some financial instituitions and helping them switch from using a middle man to using blockchain to send, verify and recieve funds.  
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* In this domain it is all about speed, crptopurrency is supposed to be fast and efficient so they will measure how many transactions per second they can do. Another metric that can improve speed is validators. Validators is someone who verifys a transaction on the blockchain and then is added on to a ledger of the blockchain. Ripple has done great by creating a process where they can do upto 1,500 transactions per second by having 120 validators. 
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -60,8 +61,10 @@
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* I would advise the company to become their own bank for small and big businesses. Yes this can get tricky for legal reasons but this opens up the door for them to take profits like banks do by investing the money they hold and instead of bank accounts they could offer customers cold wallets. Cold wallets allow you to store your crypto and not have to worry about someone stealing it. They also already work with companies to utilize their platform for payroll so if they could speed this process up even faster by allowing companies to do payroll and send payments to make purchases in real time that are verified this would create more security for companies. 
 
 * Why do you think that offering this product or service would benefit the company?
+* This service would allow customers to pay their employees with fatser. It would also create good relationships because businesses could pay vendors in just seconds.
 
 * What technologies would this additional product or service utilize?
 
