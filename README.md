@@ -113,7 +113,7 @@ I would advise the company to become their own bank for small and big businesses
 
 ## Resources
 https://xrpl.org/xrp-overview.html (Xrp home page)
-https://ripple.com/solutions/cross-border-payments/(Ripple home page)
-https://cointelegraph.com/learn/what-is-xrp-and-what-does-it-have-to-do-with-ripple(Articale about ripple and how they work)
+https://ripple.com/solutions/cross-border-payments/ (Ripple home page)
+https://cointelegraph.com/learn/what-is-xrp-and-what-does-it-have-to-do-with-ripple (Articale about ripple and how they work)
 https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/funding-and-investors
-https://stackshare.io/ripple/ripple(Tech that Ripple uses)
+https://stackshare.io/ripple/ripple (Tech that Ripple uses)
