@@ -1,5 +1,16 @@
-# Case Study
-# Ripple
+# Ripple — Historical FinTech Case Study
+
+This repository preserves an early FinTech coursework report about Ripple, cross-border payments, and the XRP Ledger. It is a **written research assignment**, not a software implementation or an up-to-date cryptocurrency analysis.
+
+> **Historical context:** Market figures, company details, technology comparisons, and sources in the original report have not been independently re-verified for 2026. Ripple (a company) and XRP (a digital asset) are distinct, so the term “Ripple/XRP” should not be used interchangeably without context.
+
+## How to use this portfolio entry
+
+Read the paper for an example of qualitative fintech analysis and technology research. For interviews, discuss why verifying primary sources, separating a company's business from an asset's mechanics, and specifying the date of market comparisons matter. Do not reuse dated claims as current facts without checking new sources.
+
+---
+
+## Original course paper
 
 ---
 ## Overview and Origin
@@ -9,7 +20,7 @@ The name of the company I will be doing my case study on is Ripple. Ripple, also
 ---
 ## Business Activities
 
-Ripple's main goal is to help companies utilize the XRP ledger to make simple baking transactions like sending and receiving money faster, cheaper and more reliable. The intended customer for this product is big banks and companies that process payments internationally. It is tough to say the market size because banks, companies and individuals all around the world can utilize Ripple in different ways. The biggest solution that Ripple offers is they are able to settle payments in as little as three to five seconds and for less than a penny. Whereas their competitor Bitcoin takes up to 500 seconds to settle payments and costs fifty cents. As found on stack share, Ripple is utilizing many tools such as JavaScript, jQuery, HTML5, Java, NGINX, PostgreSQL, TypeScript, Google Drive, Amazon S3, to do everyday business.
+Ripple's main goal is to help companies utilize the XRP ledger to make simple banking transactions like sending and receiving money faster, cheaper and more reliable. The intended customer for this product is big banks and companies that process payments internationally. It is tough to say the market size because banks, companies and individuals all around the world can utilize Ripple in different ways. The biggest solution that Ripple offers is they are able to settle payments in as little as three to five seconds and for less than a penny. Whereas their competitor Bitcoin takes up to 500 seconds to settle payments and costs fifty cents. As found on stack share, Ripple is utilizing many tools such as JavaScript, jQuery, HTML5, Java, NGINX, PostgreSQL, TypeScript, Google Drive, Amazon S3, to do everyday business.
 
 ---
 ## Landscape
@@ -34,4 +45,3 @@ https://cointelegraph.com/learn/what-is-xrp-and-what-does-it-have-to-do-with-rip
 https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/funding-and-investors (Information about Ripple funding)
 https://stackshare.io/ripple/ripple (Tech that Ripple uses)
 https://en.wikipedia.org/wiki/Ripple_(payment_protocol) ( Ripple Wikipedia Page)
-
